@@ -28,7 +28,7 @@ const experiences: Experience[] = [
     type: "edu",
   },
   {
-    date: "FEB 2023 — FEB 2024",
+    date: "JAN 2022 — FEB 2024",
     role: "Mobile App Developer",
     company: "GrabTheSite",
     description: "Maintained production Flutter apps, implemented BLoC state management, integrated REST APIs, Firebase & SQL databases.",
